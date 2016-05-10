@@ -7,16 +7,17 @@ A listing of all of the notes from past Boise Frontend Meetups
 ### Presenters:
 
 #### Steve Smith
-
+- topic   : Functional programming with javascript
 - notes   : https://slides.com/stevesmith/functional-programming-in-javascript/live#/
 - twitter : @ProSteveSmith
 - website : http://funkyjavascript.com/
 
 #### Ben Hofferber
-- notes   : 
+- topic   : Building mobile and desktop applications with cordova, angularjs and angular material
 - twitter : @hoffination
 - website : http://benhoffa.com 
-- website : http://www.standingtreesoftware.com/ 
+- references : 
+  - http://www.standingtreesoftware.com/ 
 
 
 
