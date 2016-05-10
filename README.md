@@ -1,4 +1,4 @@
-# boise-frontend-meetup-presentation-notes
+# Boise Frontend Meetup Presentation Notes
 
 A listing of all of the notes from past Boise Frontend Meetups
 
