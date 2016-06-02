@@ -13,6 +13,7 @@ A listing of all of the notes from past Boise Frontend Meetups
 
 #### Steve Smith
 - topic   : Functional Insult Generator
+- presentation : http://funkyjavascript.com/insult-generator/
 - twitter : @ProSteveSmith
 
 #### Jeremy Zerr & Andrew Chumich (Zerrtech)
