@@ -8,7 +8,7 @@ A listing of all of the notes from past Boise Frontend Meetups
 
 #### Blake Dietz
 - topic   : Chrome DevTools
-- notes   : http://slides.com/blakeadietz/deck
+- presentation   : http://slides.com/blakeadietz/deck
 - twitter : @dietztweetz
 
 #### Steve Smith
@@ -25,13 +25,13 @@ A listing of all of the notes from past Boise Frontend Meetups
 
 #### Steve Smith
 - topic   : Functional programming with javascript
-- notes   : https://slides.com/stevesmith/functional-programming-in-javascript/live#/
+- presentation   : https://slides.com/stevesmith/functional-programming-in-javascript/live#/
 - twitter : @ProSteveSmith
 - website : http://funkyjavascript.com/
 
 #### Ben Hofferber
 - topic   : Building mobile and desktop applications with cordova, angularjs and angular material
-- notes   : https://docs.google.com/document/d/1NmbEQRcQzGudGWeKtuLF25DgxeB88Q1_efENPvtL4dA/edit?usp=sharing
+- presentation   : https://docs.google.com/document/d/1NmbEQRcQzGudGWeKtuLF25DgxeB88Q1_efENPvtL4dA/edit?usp=sharing
 - twitter : @hoffination
 - website : http://benhoffa.com 
 - references : 
