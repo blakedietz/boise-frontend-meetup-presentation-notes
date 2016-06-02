@@ -9,12 +9,15 @@ A listing of all of the notes from past Boise Frontend Meetups
 #### Blake Dietz
 - topic: Chrome DevTools
 - notes: http://slides.com/blakeadietz/deck
+- twitter: @dietztweetz
 
 #### Steve Smith
-- topic: Functional Insult Generator 
+- topic: Functional Insult Generator
+- twitter: @ProSteveSmith
 
 #### Jeremy Zerr & Andrew Chumich (Zerrtech)
 - topic: State of Angular - Insights from ng-conf 2016
+- twitter: @jrzerr
 
 ## 05/04/16
 
