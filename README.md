@@ -7,17 +7,17 @@ A listing of all of the notes from past Boise Frontend Meetups
 ### Presenters:
 
 #### Blake Dietz
-- topic: Chrome DevTools
-- notes: http://slides.com/blakeadietz/deck
-- twitter: @dietztweetz
+- topic   : Chrome DevTools
+- notes   : http://slides.com/blakeadietz/deck
+- twitter : @dietztweetz
 
 #### Steve Smith
-- topic: Functional Insult Generator
-- twitter: @ProSteveSmith
+- topic   : Functional Insult Generator
+- twitter : @ProSteveSmith
 
 #### Jeremy Zerr & Andrew Chumich (Zerrtech)
-- topic: State of Angular - Insights from ng-conf 2016
-- twitter: @jrzerr
+- topic   : State of Angular - Insights from ng-conf 2016
+- twitter : @jrzerr
 
 ## 05/04/16
 
@@ -31,6 +31,7 @@ A listing of all of the notes from past Boise Frontend Meetups
 
 #### Ben Hofferber
 - topic   : Building mobile and desktop applications with cordova, angularjs and angular material
+- notes   : https://docs.google.com/document/d/1NmbEQRcQzGudGWeKtuLF25DgxeB88Q1_efENPvtL4dA/edit?usp=sharing
 - twitter : @hoffination
 - website : http://benhoffa.com 
 - references : 
