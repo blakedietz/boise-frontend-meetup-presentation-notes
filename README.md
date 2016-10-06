@@ -1,6 +1,6 @@
-# Boise Frontend Meetup Presentation Notes
+# Boise Frontend Meetup Presentation History
 
-A listing of all of the presentations and their associated notes from past Boise Front-end Meetups
+This is a listing of all of the presentations and their associated notes and presenter information from past Boise Front-end Meetups
 
 ## 10/05/16
 
