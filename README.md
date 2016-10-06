@@ -29,7 +29,7 @@ This is a listing of all of the presentations and their associated notes and pre
 #### Daniel Ryan
 
 - topic: CSS Pseudo selectors
-- presentation: n/a
+- presentation: https://docs.google.com/presentation/d/1jeCCtwUjXsMuFPUEFvAjKwiS0bUyUuARQ8MVJTbwrwQ/edit
 - twitter: @dcryan22
 
 #### Blake Dietz
