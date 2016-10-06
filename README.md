@@ -1,58 +1,56 @@
 # Boise Frontend Meetup Presentation History
 
-This is a listing of all of the presentations and their associated notes and presenter information from past Boise Front-end Meetups
+This is a listing of all of the presentations and their associated notes and presenter information from past Boise Front-end Meetups.
 
 ## 10/05/16
 
-### Presenters
+### Standard Length Talks
 
-#### Standard Length Talks
-
-##### Josh Unger
+#### Josh Unger
 
 - topic: Weekend update - A monthly digest for front-end news
 - presentation: n/a
 - twitter: n/a
 
-#### Lightning Talks
+### Lightning Talks
 
-##### Taylor Bell
+#### Taylor Bell
 
 - topic: Fixing webpack woes caused by an I.E. vm
 - presentation: n/a
 - twitter: n/a
 
-##### Scott Sword
+#### Scott Sword
 
 - topic: Vue.js - An opinionated overview
 - presentation: n/a
 - twitter: n/a
 
-##### Daniel Ryan
+#### Daniel Ryan
 
 - topic: CSS Pseudo selectors
 - presentation: n/a
 - twitter: n/a
 
-##### Blake Dietz
+#### Blake Dietz
 
 - topic: target="_blank" vulnerability
 - presentation: n/a
 - twitter: n/a
 
-##### Larry Beck
+#### Larry Beck
 
 - topic: 
 - presentation: n/a
 - twitter: n/a
 
-##### Mike?
+#### Mike?
 
 - topic: Reagent
 - presentation: n/a
 - twitter: n/a
 
-### Proposed Topics
+### Proposed Topics for Future Presentations
 
 We're now polling for topics after each meetup to help give future presenters ideas:
 
