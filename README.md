@@ -40,13 +40,13 @@ This is a listing of all of the presentations and their associated notes and pre
 
 #### Larry Beck
 
-- topic: 
+- topic: IOT Dashboard
 - presentation: n/a
 - twitter: n/a
 
-#### Mike?
+#### Mike ?
 
-- topic: Reagent
+- topic: Reagent - React native mobile development in clojurescript
 - presentation: n/a
 - twitter: n/a
 
@@ -66,6 +66,8 @@ We're now polling for topics after each meetup to help give future presenters id
 - The differences between HTTP 1.0 and HTTP 2.0
 - Webpack: One step past the tutorial phase
 - Tree shaking
+ react
+- hyperterm (terminal built in js) 
 
 ## 06/01/16
 
