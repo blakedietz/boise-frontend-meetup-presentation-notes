@@ -9,8 +9,8 @@ This is a listing of all of the presentations and their associated notes and pre
 #### Josh Unger
 
 - topic: Weekend update - A monthly digest for front-end news
-- presentation: n/a
-- twitter: n/a
+- presentation: https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-10.md
+- twitter: @joshunger
 
 ### Lightning Talks
 
@@ -18,25 +18,25 @@ This is a listing of all of the presentations and their associated notes and pre
 
 - topic: Fixing webpack woes caused by an I.E. vm
 - presentation: n/a
-- twitter: n/a
+- twitter: @taylorbell
 
 #### Scott Sword
 
 - topic: Vue.js - An opinionated overview
 - presentation: n/a
-- twitter: n/a
+- twitter: @scott_sword
 
 #### Daniel Ryan
 
 - topic: CSS Pseudo selectors
 - presentation: n/a
-- twitter: n/a
+- twitter: @dcryan22
 
 #### Blake Dietz
 
 - topic: target="_blank" vulnerability
-- presentation: n/a
-- twitter: n/a
+- presentation: http://slides.com/blakeadietz/target-blank
+- twitter: @dietztweetz
 
 #### Larry Beck
 
